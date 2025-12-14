@@ -72,3 +72,4 @@ Register No: 25010044
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+JK flipflop using verilog and validating their functionality using their functional tables are verified.
