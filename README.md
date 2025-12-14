@@ -33,8 +33,28 @@ By using three variable K-Map, we can get the simplified expression for next sta
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 
 **Procedure**
+~~~
+1.Open Quartus II and create a new project wizard.
 
-/* write all the steps invloved */
+2.Create a Verilog HDL file and enter the JK Flip-Flop code.
+
+3.Save the file.
+
+4.Click Compile to check for errors and build the design.
+
+5.Go to Tools > Netlist Viewers > RTL Viewer to view and save the RTL schematic.
+
+6.Create a Vector Waveform File (.vwf) via File > New > University Program VWF.
+
+7.Add input/output nodes using Node finder.
+
+8.Apply different input combinations (J, K, Clock) in the waveform.
+
+9.Run Simulation from Processing > Start Simulation.
+
+10.View and save the timing diagram showing the JK flip-flop behavior.
+
+~~~
 
 **PROGRAM**
 
