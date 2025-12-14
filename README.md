@@ -70,6 +70,7 @@ Register No: 25010044
 <img width="926" height="416" alt="Screenshot 2025-12-14 135311" src="https://github.com/user-attachments/assets/cf4df188-bee2-4c81-ae25-391b63241660" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1919" height="1021" alt="Screenshot 2025-12-14 141247" src="https://github.com/user-attachments/assets/970a8938-dd40-4729-889a-d3e84150762c" />
 
 **RESULTS**
 JK flipflop using verilog and validating their functionality using their functional tables are verified.
